@@ -1,0 +1,19 @@
+.description-column {
+    width: 500px;
+}
+.image{
+    width: 100px;  
+}
+center{
+    color:rgb(41, 28, 158);
+}
+form{
+    display:flexbox;
+}
+body {
+    background-image: url('https://www.dourdan.fr/wp-content/uploads/2023/01/j4kk8b9fgj8-385x0-c-default.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+  }
+  
